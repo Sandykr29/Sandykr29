@@ -11,6 +11,7 @@
   width="400"
   src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
 />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandykr29&label=Profile%20views&color=0e75b6&style=flat" alt="sandykr29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandykr29" alt="sandykr29" /></a> </p>
