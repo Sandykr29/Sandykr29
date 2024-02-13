@@ -9,6 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandykr29" alt="sandykr29" /></a> </p>
 
+
+<img
+  align="right"
+  alt="coding"
+  width="400"
+  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
+/>
 - 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available at [https://sandykr29.github.io/](https://sandykr29.github.io/)
