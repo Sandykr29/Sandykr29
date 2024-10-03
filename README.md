@@ -1,6 +1,4 @@
-<img width="100%" src="https://camo.githubusercontent.com/59fc60c71a5bfaf918be50fa4029810272f7da7aff16df440d0f971bdbb5f6ce/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966"
-  alt="Something Went Wrong"/>
-
+<img width="100%" src="https://camo.githubusercontent.com/3167026abe932fe28cb61a7308549da706bc1a8ee81a3cc3169ea75991d2e3d5/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966" alt="GitHub Banner" />
 
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A passionate full stack developer from Lucknow, India.</h3>
@@ -16,7 +14,7 @@
   width="400"
   src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
 />
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://sandykr29.github.io/](https://sandykr29.github.io/)
 
