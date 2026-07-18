@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="GitHub Banner"/>
+<img width="100%" src="https://miro.medium.com/v2/resize:fit:840/1*b21FyqUbowHYAOQDXH0tDw.jpeg"/>
 
 # Hi 👋, I'm Sandeep Kumar
 
