@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://miro.medium.com/v2/resize:fit:840/1*b21FyqUbowHYAOQDXH0tDw.jpeg"/>
+<img width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQEK0jfC8-4nvg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725875782246?e=1787184000&v=beta&t=Cfu4xKwtdti2sVqyGhkVKlhqnz4g9HdVu0f46cJm1_s"/>
 
 # Hi 👋, I'm Sandeep Kumar
 
